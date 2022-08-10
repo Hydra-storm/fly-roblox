@@ -1,6 +1,6 @@
 -- Bring to you by Hydra_storm
 -- Enjoy the script!
-
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/Hydra-storm/fly-roblox/main/script'))()
 -- Instances:
 
 local FlyGui = Instance.new("ScreenGui")
